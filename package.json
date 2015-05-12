@@ -1,0 +1,15 @@
+{
+  "name": "picosat.js",
+  "version": "1.0.0",
+  "description": "bindings to picoSAT solver",
+  "main": "picosat.js",
+  "scripts": {
+    "test": "node picosat.js"
+  },
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  },
+  "author": "Peng Dai",
+  "license": "MIT"
+}
